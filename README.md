@@ -15,3 +15,5 @@ Lecture 3: AJAX with PHP Using jQuery - Get & Post Methods
 # Section: 2 - AJAX with PHP Project
 
 Lecture 4: AJAX with PHP Using jQuery - Registration Form Project
+
+Lecture 5: AJAX with PHP Using jQuery - AJAX Function
