@@ -11,3 +11,7 @@ Lecture 1: Introduction to AJAX Web Development
 Lecture 2: AJAX with PHP Using jQuery - Creating the Environment
 
 Lecture 3: AJAX with PHP Using jQuery - Get & Post Methods
+
+# Section: 2 - AJAX with PHP Project
+
+Lecture 4: AJAX with PHP Using jQuery - Registration Form Project
